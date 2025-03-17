@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\calculator__\calculator__\bin\Debug\net8.0-windows\calculator__.exe
+C:\Users\Dell\source\repos\calculator__\calculator__\bin\Debug\net8.0-windows\calculator__.deps.json
+C:\Users\Dell\source\repos\calculator__\calculator__\bin\Debug\net8.0-windows\calculator__.runtimeconfig.json
+C:\Users\Dell\source\repos\calculator__\calculator__\bin\Debug\net8.0-windows\calculator__.dll
+C:\Users\Dell\source\repos\calculator__\calculator__\bin\Debug\net8.0-windows\calculator__.pdb
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.Form1.resources
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.AssemblyInfo.cs
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.dll
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\refint\calculator__.dll
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.pdb
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\calculator__.genruntimeconfig.cache
+C:\Users\Dell\source\repos\calculator__\calculator__\obj\Debug\net8.0-windows\ref\calculator__.dll
